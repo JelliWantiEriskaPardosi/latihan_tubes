@@ -28,3 +28,11 @@ int main() {
     int hasil = banyak(input);
     printf("Hasil dari banyak(%d) adalah: %d\n", input, hasil);
     return 0;
+
+//test
+
+int main() {
+    int input = 5;
+    int hasil = banyak(input);
+    printf("Hasil dari banyak(%d) adalah: %d\n", input, hasil);
+    return 0;
