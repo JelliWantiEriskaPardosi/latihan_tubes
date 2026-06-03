@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//ini yang fix ya 
+
 int banyak(int x) {
     if (x < 0) {
         return 0; // Kondisi berhenti
