@@ -35,4 +35,8 @@ int main() {
     int input = 5;
     int hasil = banyak(input);
     printf("Hasil dari banyak(%d) adalah: %d\n", input, hasil);
+
+
+// tambah haha
+
     return 0;
